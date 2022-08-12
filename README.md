@@ -1,5 +1,5 @@
 # TodoAngularApp
-  Todo list made in AngularJS
+  Todo list made with AngularJS
 
 ![image](https://user-images.githubusercontent.com/52057929/184361008-d22e6145-87e7-4205-a2cb-4d10bbd2c29c.png)
 
